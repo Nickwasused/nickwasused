@@ -3,6 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 What I am working on:
+  - [status-bot-twitter-altv-python](https://github.com/Nickwasused/status-bot-twitter-altv-python)  Personal Project
   - [Free Games on Steam](https://github.com/Nickwasused/FreeGamesonSteam)  Personal Project
   - [nickwasused.github.io](https://github.com/Nickwasused/nickwasused.github.io) Personal Project
   - [LuckyV Streamer Liste](https://github.com/Nickwasused/luckyV-streamer-liste) Personal Project
