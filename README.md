@@ -9,7 +9,7 @@ Here are some ideas to get you started:
   - [LuckyV Streamer Liste](https://github.com/Nickwasused/luckyV-streamer-liste) Personal Project
   - [Twire Twitch Client](https://github.com/twireapp/Twire) Small Tweaks
   - [Grand Theft Auto: San Andreas Unity](https://github.com/GTA-ASM/gtasa_unity_website) Translation
-- 📫 How to reach me: nickwasused.social@protonmail.com
+- 📫 How to reach me: contact.nickwasused.fa6c8@simplelogin.co
 
 ### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickwasused&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)<br>
