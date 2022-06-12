@@ -3,12 +3,11 @@
 Here are some ideas to get you started:
 
 - 🔭 What I am working on:
-  - [status-bot-twitter-altv-python](https://github.com/Nickwasused/status-bot-twitter-altv-python)  Personal Project
-  - [Free Games on Steam](https://github.com/Nickwasused/FreeGamesonSteam)  Personal Project
-  - [nickwasused.github.io](https://github.com/Nickwasused/nickwasused.github.io) Personal Project
-  - [LuckyV Streamer Liste](https://github.com/Nickwasused/luckyV-streamer-liste) Personal Project
+  - [status-bot-twitter-altv-python](https://github.com/Nickwasused/status-bot-twitter-altv-python) Personal Project
+  - [Free Games on Steam](https://github.com/Nickwasused/FreeGamesonSteam) Personal Project
+  - [nickwasused.github.io](https://github.com/Nickwasused/nickwasused.github.io) Personal Website
+  - [Streaming List](https://github.com/Nickwasused/streaming-list) Personal Project
   - [Twire Twitch Client](https://github.com/twireapp/Twire) Small Tweaks
-  - [Grand Theft Auto: San Andreas Unity](https://github.com/GTA-ASM/gtasa_unity_website) Translation
 - 📫 How to reach me: contact.nickwasused.fa6c8@simplelogin.co
 
 ### Stats
