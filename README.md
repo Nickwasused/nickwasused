@@ -12,7 +12,4 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickwasused&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ⚙ Skills
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="100" height="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="100" height="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="100" height="100">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="100" height="100">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="100" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="100" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="100" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="100" />
