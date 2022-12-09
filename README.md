@@ -3,7 +3,6 @@
 - 🔭 What I am working on:
   - [Streaming List](https://github.com/Nickwasused/streaming-list) Personal Project
   - [nickwasused.github.io](https://github.com/Nickwasused/nickwasused.github.io) Personal Website
-  - [status-bot-twitter-altv-python](https://github.com/Nickwasused/status-bot-twitter-altv-python) Personal Project
   - [Free Games on Steam](https://github.com/Nickwasused/FreeGamesonSteam) Personal Project
 - 📫 How to reach me: contact.nickwasused.fa6c8@simplelogin.co
 
