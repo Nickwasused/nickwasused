@@ -3,7 +3,7 @@
 - 🔭 What I am working on:
   - [Streaming List](https://github.com/Nickwasused/streaming-list) Personal Project
   - [nickwasused.github.io](https://github.com/Nickwasused/nickwasused.github.io) Personal Website
-- 📫 How to reach me: contact.nickwasused.fa6c8@simplelogin.co
+- 📫 How to reach me: contact@nickwasused.com
 
 ### Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickwasused&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)<br>
