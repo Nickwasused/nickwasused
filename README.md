@@ -5,9 +5,5 @@
   - [nickwasused.github.io](https://github.com/Nickwasused/nickwasused.github.io) Personal Website
 - 📫 How to reach me: contact@nickwasused.com
 
-### Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickwasused&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nickwasused&theme=synthwave&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### ⚙ Skills
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="100" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="100" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="100" /><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" height="100" />
