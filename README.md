@@ -2,7 +2,7 @@
 
 - 🔭 What I am working on:
   - [Streaming List](https://github.com/Nickwasused/streaming-list) Personal Project
-  - [nickwasused.github.io](https://github.com/Nickwasused/nickwasused.github.io) Personal Website
+  - [nickwasused.github.io](https://github.com/Nickwasused/nickwasused.github.io) Old Personal Website
 - 📫 How to reach me: contact@nickwasused.com
 
 ### ⚙ Skills
