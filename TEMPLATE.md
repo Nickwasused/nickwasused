@@ -66,4 +66,4 @@ The code is formatted and checked with [ruff](https://github.com/astral-sh/ruff)
 - [VueJs](https://vuejs.org/) - Web Framework
 - [NodeJs](https://nodejs.org/en/) - Server Environment
 
-### Affiliation <a name = "affiliation"></a>
+## Affiliation <a name = "affiliation"></a>
